@@ -1,1 +1,1 @@
-gunicorn valentines2:app
+gunicorn
